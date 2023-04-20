@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lfd1/vishal:latest
+          tags: lfd1/vishal:dockerhelloworld
