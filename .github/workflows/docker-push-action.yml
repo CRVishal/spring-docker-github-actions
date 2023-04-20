@@ -3,7 +3,7 @@ name: build and push docker image
 on:
   push:
     branches:
-      - "*"
+      - "new_test"
 
 jobs:
   build:
